@@ -8,7 +8,7 @@ Hi, I’m Fred 👋<br>I’m a student at 42 Le Havre, currently working through
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SzACYJYN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rnx.fred@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![GoLand](https://img.shields.io/badge/GoLand-000000.svg?style=plastic&logo=GoLand&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fredrnx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
