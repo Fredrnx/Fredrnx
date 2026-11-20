@@ -24,7 +24,7 @@ Hi, I’m Fred 👋<br>I’m a student at 42 Le Havre, currently working through
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Fredrnx&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Fredrnx&style=plastic&color=blue)](https://visitcount.itsvg.in)
 
 Proudly created with GPRM ( https://gprm.itsvg.in )
 
